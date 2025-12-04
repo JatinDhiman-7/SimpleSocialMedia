@@ -4,6 +4,23 @@
 .content {
   width: 100%;
 }
-.side-bar{
-  min-height:800px
+.side-bar {
+  min-height: 800px;
+}
+.post-card {
+  min-width: 30rem;
+  margin: 20px 50px;
+}
+.hastag {
+  margin: 0px 3px;
+}
+
+.reaction {
+  width: 100%;
+  margin: 15px 0 0 0;
+}
+.create-post{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 50px;
 }
